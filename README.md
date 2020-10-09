@@ -19,4 +19,6 @@ There are 5 steps in the pipeline that I created to detect lane lines.
 4. Average the lines together and form a single line for each lane line that extrapolates out from them
 5. Overlay these lines on each image in the video
 
+Video
+---
 [![Watch the video](test_images_output/solidWhiteRight.jpg)](test_videos_output/solidWhiteRight.mp4)
